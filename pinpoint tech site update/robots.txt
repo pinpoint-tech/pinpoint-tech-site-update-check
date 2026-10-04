@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pinpoint-tech.github.io/pinpoint-tech/sitemap.xml
